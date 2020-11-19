@@ -2,7 +2,7 @@
 * Developer Website - https://codecameron.dev/  -- If you wanna see my works and read the rambles of a Junior Web Developer, Go here
 * Personal Website - https://cabooshyy.xyz/ -- Everything else i do will be here!
 
-* Minecraf Modpacks Website - https://fusionmodpacks.uk/ -- @FusionMCModpack Minecraf Modpacks
+* Minecraf Modpacks Website - https://fusionmodpacks.uk/ -- https://github.com/FusionMCModpack Minecraf Modpacks
 ---
 - 💻 I'm a Junior Web Developer primarily working with PHP
 - 🔭 I’m currently working on not dying of death from wordpress
