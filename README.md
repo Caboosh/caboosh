@@ -7,9 +7,9 @@
 - 💻 I'm a Junior Web Developer primarily working with PHP
 - 🔭 I’m currently working on not dying of death from wordpress
 - 🌱 I’m currently learning Go!
-- 🐍 i use the bitey boy snek language for some stuff also!
+- 🐍 i use the bitey boy snek language for some stuff also.
 ---
-- ⚡ Fun fact: Stairs hate Stairs.
+- ⚡ Fun fact: i3wm is a window manager everyone should be using, do it, use i3.
 <!--
 **Caboosh/caboosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
