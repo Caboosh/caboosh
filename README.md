@@ -4,10 +4,16 @@
 
 * Minecraf Modpacks Website - https://fusionmodpacks.uk/ -- https://github.com/FusionMCModpack Minecraf Modpacks
 ---
+- 😄 Pronouns: He/Him
+---
 - 💻 I'm a Junior Web Developer primarily working with PHP
 - 🔭 I’m currently working on not dying of death from wordpress
 - 🌱 I’m currently learning Go!
 - 🐍 i use the bitey boy snek language for some stuff also.
+---
+- 📫 How to reach me: 
+-   Twitter: Cabooshy
+-   Discord: Cabooshy#6969
 ---
 - ⚡ Fun fact: i3wm is a window manager everyone should be using, do it, use i3.
 <!--
