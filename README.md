@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Go!
 - 🐍 i use the bitey boy snek language for some stuff also.
 ---
-- 📫 How to reach me: 
+📫 How to reach me: 
 -   Twitter: Cabooshy
 -   Discord: Cabooshy#6969
 ---
