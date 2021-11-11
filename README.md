@@ -14,7 +14,7 @@
 📫 How to reach me: 
 -   Twitter: Cabooshy
 -   Discord: Cabooshy#6969
--   Mastodon: @Cabooshy@mstdn.social
+-   Mastodon: [@Cabooshy@mstdn.social](https://mstdn.social/web/@Cabooshy)
 -   Matrix: @cabooshy:cabooshyy.xyz
 ---
 - ⚡ Fun fact: Tiling Window Managers are great, try one.
